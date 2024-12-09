@@ -16,7 +16,8 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [University of Guayaquil](https://www.ug.edu.ec/) 
+- :ninja: Hello, I'm William, I am preparing to be a future junior and continue with my learning. My programming training is basic but I can adapt to anything. 🙂
+- :school: I am a `future junior` at [University of Guayaquil](https://www.ug.edu.ec/) 
 - :nerd_face: Keep going, don't look at the past because they were the foundations of your present.
 
 <br>
